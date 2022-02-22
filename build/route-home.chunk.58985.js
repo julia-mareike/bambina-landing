@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"2uNa":function(e,a,t){"use strict";t.r(a);var c=t("F4CO"),n="home__uRcqa";a.default=function(){return Object(c.h)("div",{className:n},Object(c.h)("h2",null,"Title"),Object(c.h)("p",null,"Paragraph text."),Object(c.h)("p",null,"Available for purchase via ",Object(c.h)("a",{href:"https://www.trademe.co.nz/a/search?member_listing=1402299&search_string=bambina"},"TradeMe")))}}}]);
+//# sourceMappingURL=route-home.chunk.58985.js.map
